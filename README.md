@@ -14,25 +14,25 @@
 <br/>
 <br/>
 <br/>
-<br/>
 <h2> 📲 Contact 📳 </h2>
 <br/>
 
 <div style="display:flex; flex-direction:row;">
+    <a href="https://open.kakao.com/me/mikkang/">
+        <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
     <a href="https://discord.com/374712310041935872/">
-        <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+        <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">      
     <a href="https://www.instagram.com/_mikkang/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div>
 <br/>
 <br/>
-      <br/>
-      <br/>
-<h2><div style="display:flex; flex-direction:row;">
+<br/>
+<h2> My   
     <a href="https://velog.io/@yhj4132">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
-    </a></h2>
+    </a> ✏ </h2>
     <br/>
   
 [![Velog's Card]([https://velog-readme-stats.vercel.app/api?name=yhj4132](https://velog.io/@yhj4132)
@@ -40,14 +40,11 @@
 <br/>
 <br/>
 <br/>
-<br/>
-
-<h2><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></h2>
+<h2> My   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 💻 </h2>
 <br/>
 
 ![mikkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1kkang&show_icons=true&theme=transparent)
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -68,6 +65,9 @@
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </div>
+<br/>
+<br/>
+<br/>
 
 
 </div>
