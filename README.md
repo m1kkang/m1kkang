@@ -39,7 +39,7 @@
 
 <br/>
 <br/>
-<br/>
+
 <h2> My
     <a href="https://github.com/m1kkang">
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 💻 </h2>
@@ -49,7 +49,7 @@
 
 <br/>
 <br/>
-<br/>
+
 <h2> ⚔ Skill ⚔ </h2>
 <br/>
 <div>
