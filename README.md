@@ -35,7 +35,7 @@
     </a> ✏ </h2>
     <br/>
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yhj4132&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yhj4132)](https://github.com/eungyeole/velog-readme-stats)
 
 <br/>
 <br/>
