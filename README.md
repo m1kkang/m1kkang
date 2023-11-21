@@ -20,7 +20,7 @@
 <div style="display:flex; flex-direction:row;">
     <a href="https://open.kakao.com/me/mikkang/">
         <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
-    <a href="https://discord.com/374712310041935872/">
+    <a href="https://discord.com/users/374712310041935872/">
         <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">      
     <a href="https://www.instagram.com/_mikkang/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -40,7 +40,9 @@
 <br/>
 <br/>
 <br/>
-<h2> My   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 💻 </h2>
+<h2> My
+    <a href="https://github.com/m1kkang">
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 💻 </h2>
 <br/>
 
 ![mikkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1kkang&show_icons=true&theme=transparent)
@@ -55,6 +57,7 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <div></div>
   <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -63,7 +66,7 @@
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+
 </div>
 <br/>
 <br/>
