@@ -4,14 +4,7 @@
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm1kkang&count_bg=%23A5AE83&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h2>👩🏻‍🏫 문제 해결의 크리에이터 👩🏻‍💻</h2>
-<br/>
-<br/>
-수학 강사로서의 문제 해결 역량과 창의성을 바탕으로
-<br/>
-<br/>
-체계적이고 효율적인 코드의 크리에이터가 될 수 있도록 노력하겠습니다 ! ✨
-<br/>
+<h2>👩🏻‍🏫 성장하는 개발자 👩🏻‍💻</h2>
 <br/>
 <br/>
 <h2> 📲 Contact 📳 </h2>
