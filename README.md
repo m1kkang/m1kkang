@@ -38,7 +38,7 @@
 <br/>
 <br/>
 <h2> My   
-    <a href="https://velog.io/@yhj4132">
+<!--     <a href="https://velog.io/@yhj4132"> -->
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
       <a href="https://amazing-bike-ede.notion.site/e43032af8f1c40269b168a9d081b52a2?pvs=4">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
